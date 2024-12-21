@@ -1,0 +1,1 @@
+// This file can be empty since we're not using NativeScript anymore
